@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Mostafa+Badr;Mobile+App+Developer+%2B1+Year+Experience;Building+High+Quality+Flutter+%26+Swift+Apps;Clean+Code+%7C+Beautiful+UI+%7C+Scalable+Architecture+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&width=950&lines=Hey+There!+👋;I'm+Mostafa+Badr;Mobile+App+Developer+%2B1+Year+Experience;Building+High+Quality+Flutter+%26+Swift+Apps;Clean+Code;Beautiful+UI+%7C+Scalable+Architecture+%26+Modern+Design+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,firebase,androidstudio,vscode,figma,git,github,python,xd" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,firebase,androidstudio,vscode,figma,xd,c,cpp" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 <h2 align="center">⚙️ Tools & Workflow</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,slack,trello,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,notion,jenkins" />
 </p>
 
 ---
@@ -111,6 +111,18 @@ Driven by innovation, collaboration, and continuous learning. 🚀
   <a href="https://drive.google.com/file/d/1uVpD3Ud5WCWGOI-r4DQc3bV2IOozco2p/view">
     <img src="https://img.shields.io/badge/View%20CV-00FFFF?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
+</p>
+
+---
+
+<h2 align="center">💬 Thanks for Visiting!</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+😊;Feel+free+to+connect+and+collaborate!;Keep+coding+and+building+awesome+stuff!+🚀" alt="Thanks Animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Engineer-Mostafa-Badr/Engineer-Mostafa-Badr/refs/heads/main/mostafa-line.svg" width="80%" />
 </p>
 
 ---
