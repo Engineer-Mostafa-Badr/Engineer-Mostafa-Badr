@@ -12,12 +12,12 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">👨‍💻 About Me</h2>
 
 <p align="center">
-<b>Mobile Application Developer</b> with <b>+1 year of experience</b> in <b>Flutter</b> and <b>Swift</b>.<br/>
-Passionate about crafting high-quality, scalable mobile applications with a focus on <b>clean architecture</b> and <b>modern design</b>.<br/>
-Driven by innovation, collaboration, and continuous learning. 🚀
+🚀 Passionate <b>Mobile App Developer</b> with <b>1+ year</b> of experience building <b>Flutter</b> & <b>Swift</b> apps.<br/>
+Focused on crafting <b>clean, scalable architecture</b> and <b>modern user experiences</b>.<br/>
+I love transforming ideas into impactful, high-performance applications that make life easier.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/Engineer-Mostafa-Badr/E-commerce-App">
@@ -47,28 +47,32 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">🧠 Tech Stack</h2>
 
+<h3 align="center">📱 Mobile Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,firebase,androidstudio,vscode,figma,xd,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,firebase" />
+</p>
+
+<h3 align="center">🧰 Tools & Design</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,xd,git,github,postman,notion" />
+</p>
+
+<h3 align="center">⚙️ Backend & Others</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,cloudflare" />
 </p>
 
 ---
 
-<h2 align="center">⚙️ Tools & Workflow</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">🏆 Achievements & Highlights</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,notion,jenkins" />
-</p>
-
----
-
-<h2 align="center">📚 Currently Learning</h2>
-
-<p align="center">
-  🧩 Advanced Flutter Animations & Performance Optimization<br/>
-  ☁️ Firebase Cloud Functions<br/>
-  🧱 Clean Architecture + Modularization
+🥇 Built and launched multiple production-level Flutter apps<br/>
+🧩 Designed scalable state management structures (Bloc, Riverpod)<br/>
+🚀 Improved app performance & load time by 40% using optimization techniques<br/>
+🌍 Worked with cross-functional teams remotely and delivered on time
 </p>
 
 <p align="center">
@@ -77,7 +81,17 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 
 ---
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">📚 Currently Learning</h2>
+
+<p align="center">
+🧩 Advanced Flutter Animations & Performance Optimization<br/>
+☁️ Firebase Cloud Functions<br/>
+🧱 Clean Architecture + Modularization
+</p>
+
+---
+
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">📈 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Engineer-Mostafa-Badr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" />
@@ -86,7 +100,7 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 
 ---
 
-<h2 align="center">💼 Connect With Me</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">💼 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-badr-b00b1030a/">
@@ -105,7 +119,7 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 
 ---
 
-<h2 align="center">📄 My CV</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">📄 My CV</h2>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1uVpD3Ud5WCWGOI-r4DQc3bV2IOozco2p/view">
@@ -115,10 +129,10 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 
 ---
 
-<h2 align="center">💬 Thanks for Visiting!</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">💬 Thanks for Visiting!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+😊;Feel+free+to+connect+and+collaborate!;Keep+coding+and+building+awesome+stuff!+🚀" alt="Thanks Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+💙;Let's+build+something+amazing+together!+🚀;Keep+learning,+keep+growing!+🔥" alt="Thanks Animation" />
 </p>
 
 <p align="center">
@@ -127,7 +141,7 @@ Driven by innovation, collaboration, and continuous learning. 🚀
 
 ---
 
-<h2 align="center">🔥 Profile Views</h2>
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">🔥 Profile Views</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Engineer-Mostafa-Badr&style=for-the-badge&color=blueviolet" />
