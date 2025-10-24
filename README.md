@@ -99,7 +99,6 @@ I love transforming ideas into impactful, high-performance applications that mak
 </p>
 
 ---
-
 <h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">💼 Connect With Me</h2>
 
 <p align="center">
@@ -113,9 +112,20 @@ I love transforming ideas into impactful, high-performance applications that mak
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://x.com/EngMostafa_Badr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/engineer_mostafa_badr/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@engineer_mostafa_badr">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@Engineer_Mostafa_Badr">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
+
+
 
 
 ---
