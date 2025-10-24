@@ -103,7 +103,7 @@ I love transforming ideas into impactful, high-performance applications that mak
 <h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">💼 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mostafa-badr-b00b1030a/">
+  <a href="https://www.linkedin.com/in/engineer-mostafa-badr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mostafamostafabadrbadr@gmail.com">
