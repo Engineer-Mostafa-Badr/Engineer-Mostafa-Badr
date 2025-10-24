@@ -122,7 +122,7 @@ I love transforming ideas into impactful, high-performance applications that mak
 <h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">📄 My CV</h2>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1uVpD3Ud5WCWGOI-r4DQc3bV2IOozco2p/view">
+  <a href="https://drive.google.com/file/d/1TGi4FNqjN8cP_JAQYGIKRR2SPhyGdGEu/view">
     <img src="https://img.shields.io/badge/View%20CV-00FFFF?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
 </p>
