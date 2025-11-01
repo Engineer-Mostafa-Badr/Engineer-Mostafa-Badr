@@ -65,6 +65,23 @@ I love transforming ideas into impactful, high-performance applications that mak
 </p>
 
 ---
+<h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">🌐 My Portfolio</h2>
+
+<p align="center">
+  <a href="https://engineer-mostafa-badr-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my <b>projects, case studies, and experience</b> in more detail on my personal portfolio website.<br/>
+  ✨ <i>Clean design, smooth animations, and real-world app showcases built with Flutter.</i> 🚀
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Engineer-Mostafa-Badr/Engineer-Mostafa-Badr/refs/heads/main/mostafa-line.svg" width="80%" />
+</p>
+
 
 <h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">🏆 Achievements & Highlights</h2>
 
@@ -141,7 +158,7 @@ I love transforming ideas into impactful, high-performance applications that mak
 <h2 align="center" style="background: linear-gradient(to right, #00FFFF, #8A2BE2); -webkit-background-clip: text; color: transparent;">📄 My CV</h2>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1TGi4FNqjN8cP_JAQYGIKRR2SPhyGdGEu/view">
+  <a href="https://drive.google.com/file/d/1TBn4VtVnRJAwDWd2NyGUo21ioRCG7gFi/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20CV-00FFFF?style=for-the-badge&logo=readthedocs&logoColor=black" />
   </a>
 </p>
